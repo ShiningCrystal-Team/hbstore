@@ -1,0 +1,55 @@
+"storeInfo": {
+    "title": "FieryMewtwo's Public Homebrew Repo",
+    "author": "FieryMewtwo",
+    "description": "An online database of 3DS homebrew",
+    "file": "FieryMewtwoRepo.unistore",
+    "url": "https://db.universal-team.net/unistore/universal-db.unistore",
+    "sheet": "",
+    "sheetURL": "",
+    "bg_index": 0,
+    "bg_sheet": 0,
+    "version": 3,
+    "revision": 1
+}
+"storeContent": [
+    {
+        "info": {
+            "title": "mGBA",
+            "author": "mGBA",
+            "version": "v0.9.3",
+            "category": ["emulators"],
+            "console": ["3DS"],
+            "description": "A highly accurate Game Boy Advance emulator for the (New) Nintendo 3DS/2DS",
+            "license": "mpl-2.0",
+            "icon_index": 0,
+            "sheet_index": 0,
+            "last_updated": "2020-07-11"
+        },
+        "Download mGBA.3dsx": [
+            {
+                "file": "https://shiningcrystal-team.github.io/hbstore/resources/3dsx/mgba.3dsx",
+                "message": "Downloading mGBA.3dsx to the SD Card... Please wait.",
+                "output": "sdmc:/3ds/mGBA.3dsx",
+                "type": "downloadFile"
+            }
+        ],
+        "Download mGBA.cia": [
+            {
+                "file": "https://shiningcrystal-team.github.io/hbstore/resources/cias/mgba.cia",
+                "message": "Downloading mGBA.cia to the SD Card... Please wait.",
+                "output": "sdmc:/mGBA.cia",
+                "type": "downloadFile"
+            },
+            {
+                "file": "/mGBA.cia",
+                "message": "Installing mGBA.cia to the HOME Menu...",
+                "type": "installCia"
+            },
+            {
+                "file": "sdmc:/mGBA.cia",
+                "message": "Deleting mGBA.cia from the SD Card... Please wait.",
+                "type": "deleteFile"
+            }
+        ]
+    }
+]
