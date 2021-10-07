@@ -9,7 +9,7 @@ How to use:
 
 
 
-![image](https://user-images.githubusercontent.com/77066742/136392689-32d2548d-f8d1-4486-b281-766571bab424.png)
+![image](https://user-images.githubusercontent.com/77066742/136402212-343a9764-64d6-4ccf-b7f0-2c1cea2f6b3f.png)
 
 
 
