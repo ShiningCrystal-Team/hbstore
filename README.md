@@ -9,7 +9,8 @@ How to use:
 
 
 
-![image](https://user-images.githubusercontent.com/77066742/136380890-23230ff8-8bf8-458c-9aee-69b3e0e8a777.png)
+![image](https://user-images.githubusercontent.com/77066742/136392689-32d2548d-f8d1-4486-b281-766571bab424.png)
+
 
 
 If you cannot scan the QR code, add the Unistore link:
