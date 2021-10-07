@@ -15,3 +15,5 @@ How to use:
 If you cannot scan the QR code, add the Unistore link:
 
 https://shiningcrystal-team.github.io/hbstore/resources/FieryMewtwo'sHomebrew.unistore/
+
+Have some homebrew you want here? Open a pull request! :)
